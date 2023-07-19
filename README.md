@@ -1,7 +1,5 @@
 # Algorithmic-Trading-Series-On-MetaTrader-5-with-Python
 
-# Algorithmic Trading with Python in MetaTrader 5
-
 This repository contains an algorithmic trading project using Python in the MetaTrader 5 (MT5) platform. It showcases the development and execution of automated trading strategies based on various indicators, signals, and conditions.
 
 ## Description
